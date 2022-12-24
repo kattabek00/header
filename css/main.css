@@ -85,6 +85,7 @@ input {
     font-weight: 400;
     font-size: 16px;
     line-height: 22px;
+    outline: none;
     /* identical to box height, or 138% */
 
 
